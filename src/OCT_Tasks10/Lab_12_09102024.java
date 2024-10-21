@@ -5,7 +5,7 @@ public class Lab_12_09102024
     public static void main(String[] args)
     {
         int table = 10;
-        System.out.printf("%d * %d = %d", table, 1, table*1);
+        System.out.printf("%d * %d = %d", table, 1, table);
         System.out.println();
         System.out.printf("%d * %d = %d", table, 2, table*2);
         System.out.println();
@@ -25,9 +25,6 @@ public class Lab_12_09102024
         System.out.println();
         System.out.printf("%d * %d = %d", table, 10, table*10);
         System.out.println();
-
-
-
 
     }
 }
